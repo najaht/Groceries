@@ -1,0 +1,11 @@
+table {
+  border: 2px solid black;
+}
+
+td {
+  border: 2px solid black;
+  padding: 20px;
+}
+/* .navbar{
+  width: 100%;
+} */
