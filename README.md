@@ -24,7 +24,7 @@ _{This is a store that primarily reatils a general range of food products.}_
 
 ## Known Bugs
 
-* _no bugs_
+* _no  known bugs_
 
 
 ## License
